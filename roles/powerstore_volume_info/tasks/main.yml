@@ -6,5 +6,5 @@
      verifycert: False
      user: "{{user}}"
      password: "{{password}}"
-     vol_id: "{{ volume_details.volume_details.id}}"
+     vol_name: "demo_volume_arakkal"
      state: "present"
